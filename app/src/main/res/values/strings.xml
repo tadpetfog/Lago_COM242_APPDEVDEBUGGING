@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">SimpleLogin</string>
+
+    <!-- Login screen -->
+    <string name="login_title">Log in</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="remember_me">Remember me</string>
+    <string name="action_login">Log in</string>
+    <string name="go_to_register">No account yet? Register</string>
+    <string name="demo_hint">Demo account:\n%1$s / %2$s</string>
+    <string name="welcome_toast">Welcome, %1$s!</string>
+
+    <!-- Register screen -->
+    <string name="register_title">Create account</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_confirm_password">Confirm password</string>
+    <string name="password_rules">At least 8 characters, with letters and numbers</string>
+    <string name="action_register">Register</string>
+    <string name="go_to_login">Already have an account? Log in</string>
+    <string name="register_success">Account created. Please log in.</string>
+
+    <!-- Home screen -->
+    <string name="home_welcome">Hello, %1$s</string>
+    <string name="home_email">Logged in as %1$s</string>
+    <string name="action_logout">Log out</string>
+</resources>

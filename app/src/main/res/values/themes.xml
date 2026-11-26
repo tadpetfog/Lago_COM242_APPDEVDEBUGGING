@@ -1,0 +1,4 @@
+<resources>
+    <!-- Material 3 theme (required by TextInputLayout). Shows a default action bar with the app name. -->
+    <style name="Theme.W3_LoginActivity" parent="Theme.Material3.DayNight" />
+</resources>
